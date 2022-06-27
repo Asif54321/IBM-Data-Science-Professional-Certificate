@@ -1,0 +1,20 @@
+https://developer.ibm.com/exchanges/data/     //imb
+
+https://plotlygraphs.medium.com   //articles
+
+https://community.plotly.com/c/graphing-libraries/5  //graph
+
+https://plotly.com/python-api-reference/           //api
+
+https://plotly.com/python/plotly-express/          //ploty
+
+https://plotly.com/python/graph-objects/           //graph
+
+https://plotly.com/python/getting-started/         //pyhton graph strt
+
+https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map      //json
+
+https://pyviz.org/dashboarding/               //dashboard tools
+
+
+
